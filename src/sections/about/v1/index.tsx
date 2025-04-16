@@ -33,19 +33,19 @@ export function AboutSection() {
             <SectionHeading {...sectionHeading} />
             {keyPoints && keyPoints.length > 0 && (
               <div className="mt-7 grid gap-5 text-accent-900 dark:text-white sm:grid-cols-2 md:mt-10 md:gap-[1.875rem]">
-                {keyPoints.map((keyPoint, index) => (
+                {/* {keyPoints.map((keyPoint, index) => (
                   <div
                     key={index}
                     className="group flex min-h-[64px] items-center gap-5 rounded-5 border border-primary px-6 py-2 md:min-h-[85px] md:px-[1.875rem] md:py-3"
                   >
-                    <span className="duration flex-none scale-100 transition-transform ease-linear group-hover:scale-90">
+                    <span className="flex-none transition-transform ease-linear scale-100 duration group-hover:scale-90">
                       {keyPoint.icon}
                     </span>
                     <h3 className="text-md font-bold leading-[1.25] md:text-lg">
                       {keyPoint.title}
                     </h3>
                   </div>
-                ))}
+                ))} */}
               </div>
             )}
             {description && (

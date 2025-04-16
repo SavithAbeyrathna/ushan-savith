@@ -7,7 +7,7 @@ export const heroData: HeroProps = {
         src: '/assets/images/hero/hero-1.jpg',
         alt: 'hero 1',
       },
-      title: 'Empowering Your Digital Future',
+      title: 'Driven by Technology. Inspired by People.',
       button: {
         label: 'Discover More',
         href: '/',
@@ -18,7 +18,7 @@ export const heroData: HeroProps = {
         src: '/assets/images/hero/hero-11.jpeg',
         alt: 'hero 1',
       },
-      title: 'Empowering Your Digital Future',
+      title: 'Driven by Technology. Inspired by People.',
       button: {
         label: 'Discover More',
         href: '/',
@@ -29,7 +29,7 @@ export const heroData: HeroProps = {
         src: '/assets/images/hero/hero-12.jpeg',
         alt: 'hero 1',
       },
-      title: 'Empowering Your Digital Future',
+      title: 'Driven by Technology. Inspired by People.',
       button: {
         label: 'Discover More',
         href: '/',
