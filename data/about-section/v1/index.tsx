@@ -62,18 +62,18 @@ export const aboutSectionData: AboutSectionProps = {
     subtitle: 'About us',
     title: 'Empowering Your Digital Tomorrow',
     description:
-      'It is a long established fact that a reader will be distracted by the readablejk content of a page when looking at its layout. Lorem Ipsum is simply dum text of the printing and typesetting industry loren ipsum',
+      "NeuroSync Digital is a next-gen tech and marketing startup, driven by technology and inspired by people. We specialize in crafting intelligent, user-centric software and digital solutions that help businesses grow smarter, faster, and more connected.Founded on the synergy between innovation and human behavior, we build tools that empower brands, streamline operations, and elevate digital experiences.We are a collective of creators, engineers, and forward-thinkers bound by a single vision: to build technology that feels intuitive, scales effortlessly, and truly understands the people it's made for.Whether it's custom software, strategic marketing, or full-scale digital transformation — we deliver solutions that go beyond functionality to create meaningful, results-driven experiences.",
   },
   keyPoints: [
     {
-      icon: <Icon1 />,
-      title: 'Cloud Migrate Pro',
+      icon: null,
+      title: '',
     },
     {
-      icon: <Icon2 />,
-      title: 'AI Forge Labs',
+      icon: null,
+      title: '',
     },
   ],
   description:
-    'It is a long established fact that a reader will be distracted by the readablejk content of a page when looking at its layout.',
+    'NeuroSync Digital is a next-gen tech and marketing startup that crafts intelligent, user-focused software and digital solutions to help businesses grow smarter and faster. Rooted in the synergy between innovation and human behavior, our team develops intuitive, scalable tools that streamline operations and elevate brand experiences. From custom software to strategic marketing, we deliver impactful solutions that go beyond expectations.',
 };

@@ -25,16 +25,16 @@ export default function Page() {
     <>
       <MainHeader version="1" />
       <Hero />
-      <ServiceSection className="!pb-0" {...serviceSectionData} />
       <AboutSection />
-      <CtaSection />
-      <ProjectSection {...projectSectionData} />
       <StatisticsSection />
+      <ServiceSection className="!pb-0" {...serviceSectionData} />
+      <ProjectSection {...projectSectionData} />
       <TestimonialSection />
-      <PricingSection />
       <TeamSection />
       <ContactSection />
-      <BlogSection />
+      {/* <PricingSection /> */}
+      {/* <CtaSection /> */}
+      {/* <BlogSection /> */}
       <Footer />
     </>
   );
