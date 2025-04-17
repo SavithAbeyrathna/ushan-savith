@@ -31,7 +31,7 @@ export function PricingCard({
             // general
             'absolute right-0 top-2.5 inline-flex min-h-[44px] items-center justify-center bg-primary pl-[54px] pr-[34px] uppercase text-white md:px-6 md:pl-10',
             // Overlay
-            '[background:linear-gradient(0.04deg,#DF2A19_16.34%,#0E0E0E_127.37%)] dark:[background:linear-gradient(90deg,rgba(223,42,25,1)_0%,rgba(223,42,25,0.5634628851540616)_43%,rgba(223,42,25,0.10968137254901966)_99%)]',
+            '[background:linear-gradient(0.04deg,#DF2A19_16.34%,#0E0E0E_127.37%)] dark:[background:linear-gradient(90deg,rgba(74,103,233,1)_0%,rgba(74,103,233,0.5634628851540616)_43%,rgba(74,103,233,0.10968137254901966)_99%)]',
             // arrow shape
             '[clip-path:polygon(100%_0,100%_50%,100%_100%,0%_100%,15%_50%,0%_0%)]'
           )}
@@ -39,7 +39,7 @@ export function PricingCard({
           Popular
         </div>
       )}
-      <div className="h-full border-accent-200 p-6 dark:border-opacity-20  max-lg:border-b max-lg:pt-14 lg:border-r  lg:p-10">
+      <div className="h-full border-accent-200 p-6 dark:border-opacity-20 max-lg:border-b max-lg:pt-14 lg:border-r lg:p-10">
         <h3 className="mb-4 text-lg font-bold leading-[1.3] text-accent-900 dark:text-white lg:mb-5 lg:text-xl">
           {title}
         </h3>
