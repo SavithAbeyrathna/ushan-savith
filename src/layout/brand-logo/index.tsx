@@ -8,7 +8,7 @@ export function BrandLogo() {
   return (
     <CustomLink href="/" className="inline-block">
       <Image
-        className="w-20 logo-light h-15 dark:hidden"
+        className="logo-light h-15 w-20 dark:hidden"
         src={logoLight.src}
         width={logoLight.width}
         height={logoLight.height}
@@ -19,7 +19,7 @@ export function BrandLogo() {
         priority
       />
       <Image
-        className="hidden w-20 h-auto logo-dark dark:block"
+        className="logo-dark hidden h-auto w-20 dark:block"
         src={logoDark.src}
         width={logoDark.width}
         height={logoDark.height}

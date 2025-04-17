@@ -1,14 +1,7 @@
 import { WorkprocessSectionProps } from '@/src/sections/work-process/v1';
 
 export const workprocessSectionData: WorkprocessSectionProps = {
-  texts: [
-    'Work process',
-    'IT Sloution',
-    'Work process',
-    'agency',
-    'Work process',
-    'Tech',
-  ],
+  texts: ['Work process', 'Work process', 'agency', 'Work process', 'Tech'],
   cards: [
     {
       icon: <Icon1 />,
