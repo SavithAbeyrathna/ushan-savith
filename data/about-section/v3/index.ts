@@ -2,8 +2,8 @@ import { VisionCardSectionProps } from '@/src/sections/about/v3/vision-section';
 
 export const visionCardSectionData: VisionCardSectionProps = {
   sectionHeading: {
-    subtitle: 'Our Vision',
-    title: 'Vision And Mission',
+    subtitle: 'Our Purpose',
+    title: 'Driving innovation forward',
   },
   cards: [
     {
