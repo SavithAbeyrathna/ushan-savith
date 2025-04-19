@@ -20,7 +20,7 @@ export function ServiceCard({ icon, title, description, slug }: ServiceProps) {
         'relative z-1 block h-full space-y-6 overflow-hidden rounded-5 p-6 md:space-y-7 md:p-10',
 
         //Hover
-        'hover:[transform:translateY(-.5rem)]',
+        'hover:bg-gradient-to-t hover:from-primary/20 hover:from-10% hover:via-white/50 hover:via-80% hover:to-white/90 hover:duration-500 hover:[transform:translateY(-0.5rem)] dark:hover:via-accent-700/50 dark:hover:to-accent-700/80',
       ])}
     >
       <div className="flex items-center gap-5">
