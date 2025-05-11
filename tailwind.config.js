@@ -28,13 +28,13 @@ module.exports = {
       '3xl': '4.25rem', // 68px
       '4xl': '5.875rem', // 94px
     },
-    // #C62F6F , #ff7300',#C4E538
+    // #C62F6F , #ff7300',#C4E538,
 
     extend: {
       colors: {
         primary: {
           light: '#4a67e9',
-          DEFAULT: ' #C4E538',
+          DEFAULT: ' #4a67e9',
         },
         accent: {
           100: '#F5F4FA',

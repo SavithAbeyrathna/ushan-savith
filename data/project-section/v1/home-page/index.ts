@@ -2,7 +2,7 @@ import { ProjectSectionProps } from '@/src/sections/project/v1';
 
 export const projectSectionData: ProjectSectionProps = {
   sectionHeading: {
-    subtitle: 'Our Services',
+    subtitle: 'Our Projects',
     title: 'What we can build for you',
   },
   isWave: true,
